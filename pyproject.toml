@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "tag-extraction-poc"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "<=2.0"
+pandas = "^2.2.2"
+scikit-learn = "^1.5.1"
+clusteval = "^2.2.1"
+pyclustering = "^0.10.1.2"
+umap = "^0.1.1"
+plotly = "^5.23.0"
+keybert = "^0.8.5"
+sacremoses = "^0.1.1"
+hdbscan = "^0.8.38.post1"
+gensim = "^4.3.3"
+nltk = "^3.9.1"
+sentencepiece = "^0.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

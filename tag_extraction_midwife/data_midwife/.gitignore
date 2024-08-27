@@ -1,0 +1,6 @@
+*
+
+!/.gitignore
+
+!/table_tous_les_labels_sf_hdbscan_dim50_eps0.005_min100.npy
+!/vec_embeddings_sf_norm_reduit_dim50_neighbors15_mindist005.npy

@@ -1,0 +1,7 @@
+*
+
+!/.gitignore
+
+!/nouveau_labels_hdbscan_dim50_eps02_mi200_V2.npy
+
+!/vec_embeddings_norm_reduit_dim50_neighbors15_mindist005.npy
