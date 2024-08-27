@@ -1,0 +1,7 @@
+*
+
+!/.gitignore
+
+!/dico_tag_cluster_hdbscan_dim50_eps02_min200_V2.pkl
+
+!/load_and_save_dico_tag.py
